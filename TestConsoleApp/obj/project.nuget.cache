@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GT0c7MqI33DAd6vZ5JfmflURL0UNU784bB/x5lFFyRxPM/lvQAGHqiD3UzxW97GvRYO/j7uFIjte+xyrGQ6vFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\forev\\OneDrive\\Masaüstü\\test\\TestConsoleApp\\TestConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\forev\\.nuget\\packages\\csvhelper\\28.0.1\\csvhelper.28.0.1.nupkg.sha512",
+    "C:\\Users\\forev\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
